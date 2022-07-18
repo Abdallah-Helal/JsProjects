@@ -1,5 +1,5 @@
 # JsProjects
-### check Demo:https://abdallah-helal.github.io/VanillaJavascriptProjects/
+### <a href="https://abdallah-helal.github.io/VanillaJavascriptProjects/" target="_blank"> Projects</a>
 In these projects I use vanilla js
 ## 1-Color Flipper
 https://abdallah-helal.github.io/VanillaJavascriptProjects/01-color-flipper/index.html
