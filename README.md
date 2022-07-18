@@ -1,6 +1,6 @@
 # JsProjects
 ### check Demo:https://abdallah-helal.github.io/JsProjects/
-in these projects i use vanilla js
+In these projects I use vanilla js
 ## Color Flipper
 ## Counter
 ## Reviews
