@@ -1,6 +1,7 @@
 # JsProjects
 ### <a href="https://abdallah-helal.github.io/VanillaJavascriptProjects/" > Projects</a>
-In these projects I use vanilla js
+
+
 ## <a href="https://abdallah-helal.github.io/VanillaJavascriptProjects/01-color-flipper/index.html">1-Color Flipper</a>
 ## <a href="https://abdallah-helal.github.io/VanillaJavascriptProjects/02-counter/index.html">2-Counter</a>
 ## <a href="https://abdallah-helal.github.io/VanillaJavascriptProjects/03-reviews/index.html">3-Reviews</a> 
